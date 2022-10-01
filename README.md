@@ -1,7 +1,5 @@
 # MacOS-MySQL-Error-Code-1290 and OS errno 13 - Permision denied
-Error Code: 1290. The MySQL server is running with the --secure-file-priv option so it cannot execute this statement
-# deep-pitcher
-Estimates pitch of human vocal from songs by vocal separation with machine learning
+Error Code: 1290. The MySQL server is running with the --secure-file-priv option so
 
 1. make a folder for MySQL
 ~~~
