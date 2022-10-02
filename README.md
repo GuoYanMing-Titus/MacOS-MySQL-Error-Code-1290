@@ -5,14 +5,14 @@ Error Code: 1290. The MySQL server is running with the --secure-file-priv option
 sudo vim /etc/my.cnf
 ~~~
 
-2. insert to my.cnf
+2. add to my.cnf
 ~~~
 [mysqld]
 secure_file_priv = ''
 local_infile = "ON"
 ~~~
 
-3. Restart MySQL server.
+3. Restart (stop and start again) MySQL server.
 
 
 # OS errno 13 - Permision denied
